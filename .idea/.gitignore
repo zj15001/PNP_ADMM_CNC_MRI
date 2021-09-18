@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\OneDrive\学习\论文\2 Plug-and-Play Methods Provably Converge with Properly Trained Denoisers\Provable_Plug_and_Play-master\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

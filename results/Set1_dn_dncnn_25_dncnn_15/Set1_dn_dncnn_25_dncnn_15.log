@@ -1,0 +1,671 @@
+21-07-03 17:12:42.063 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:12:42.064 : Params number: 555137
+21-07-03 17:12:42.078 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:12:42.078 : Params number: 555137
+21-07-03 17:12:42.079 : testsets\Set1
+21-07-03 17:12:46.394 : 11.png - PSNR: 29.3823 dB; SSIM: 0.7703 ; RE: 0.1076.
+21-07-03 17:12:46.394 : ------> testset_name: (Set1), alpha: (0.400), Average PSNR:(29.382)dB, Average ssim : (0.770), Average re : (0.108) )
+21-07-03 17:12:46.410 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:12:46.410 : Params number: 555137
+21-07-03 17:12:46.427 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:12:46.427 : Params number: 555137
+21-07-03 17:12:46.428 : testsets\Set1
+21-07-03 17:12:49.376 : 11.png - PSNR: 29.1904 dB; SSIM: 0.7639 ; RE: 0.1100.
+21-07-03 17:12:49.376 : ------> testset_name: (Set1), alpha: (0.400), Average PSNR:(29.190)dB, Average ssim : (0.764), Average re : (0.110) )
+21-07-03 17:12:49.395 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:12:49.395 : Params number: 555137
+21-07-03 17:12:49.413 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:12:49.413 : Params number: 555137
+21-07-03 17:12:49.413 : testsets\Set1
+21-07-03 17:12:52.419 : 11.png - PSNR: 27.6200 dB; SSIM: 0.7272 ; RE: 0.1318.
+21-07-03 17:12:52.420 : ------> testset_name: (Set1), alpha: (0.400), Average PSNR:(27.620)dB, Average ssim : (0.727), Average re : (0.132) )
+21-07-03 17:26:39.802 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:26:39.802 : Params number: 555137
+21-07-03 17:26:39.815 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:26:39.815 : Params number: 555137
+21-07-03 17:26:39.815 : testsets\Set1
+21-07-03 17:26:43.310 : 11.png - PSNR: 29.3823 dB; SSIM: 0.7703 ; RE: 0.1076.
+21-07-03 17:26:43.310 : ------> testset_name: (Set1), alpha: (0.400), Average PSNR:(29.382)dB, Average ssim : (0.770), Average re : (0.108) )
+21-07-03 17:26:43.329 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:26:43.329 : Params number: 555137
+21-07-03 17:26:43.339 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:26:43.339 : Params number: 555137
+21-07-03 17:26:43.340 : testsets\Set1
+21-07-03 17:26:46.168 : 11.png - PSNR: 29.1904 dB; SSIM: 0.7639 ; RE: 0.1100.
+21-07-03 17:26:46.168 : ------> testset_name: (Set1), alpha: (0.400), Average PSNR:(29.190)dB, Average ssim : (0.764), Average re : (0.110) )
+21-07-03 17:26:46.191 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:26:46.192 : Params number: 555137
+21-07-03 17:26:46.269 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:26:46.271 : Params number: 555137
+21-07-03 17:26:46.272 : testsets\Set1
+21-07-03 17:26:49.182 : 11.png - PSNR: 27.6200 dB; SSIM: 0.7272 ; RE: 0.1318.
+21-07-03 17:26:49.182 : ------> testset_name: (Set1), alpha: (0.400), Average PSNR:(27.620)dB, Average ssim : (0.727), Average re : (0.132) )
+21-07-03 17:27:01.318 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:27:01.318 : Params number: 555137
+21-07-03 17:27:01.329 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:27:01.330 : Params number: 555137
+21-07-03 17:27:01.330 : testsets\Set1
+21-07-03 17:27:05.030 : 11.png - PSNR: 30.2531 dB; SSIM: 0.7701 ; RE: 0.0973.
+21-07-03 17:27:05.030 : ------> testset_name: (Set1), alpha: (0.900), Average PSNR:(30.253)dB, Average ssim : (0.770), Average re : (0.097) )
+21-07-03 17:27:05.043 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:27:05.043 : Params number: 555137
+21-07-03 17:27:05.059 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:27:05.059 : Params number: 555137
+21-07-03 17:27:05.059 : testsets\Set1
+21-07-03 17:27:07.871 : 11.png - PSNR: 29.8766 dB; SSIM: 0.7579 ; RE: 0.1016.
+21-07-03 17:27:07.872 : ------> testset_name: (Set1), alpha: (0.900), Average PSNR:(29.877)dB, Average ssim : (0.758), Average re : (0.102) )
+21-07-03 17:27:07.917 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:27:07.918 : Params number: 555137
+21-07-03 17:27:07.973 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:27:07.975 : Params number: 555137
+21-07-03 17:27:07.975 : testsets\Set1
+21-07-03 17:27:10.905 : 11.png - PSNR: 28.9047 dB; SSIM: 0.7399 ; RE: 0.1137.
+21-07-03 17:27:10.906 : ------> testset_name: (Set1), alpha: (0.900), Average PSNR:(28.905)dB, Average ssim : (0.740), Average re : (0.114) )
+21-07-03 17:27:35.232 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:27:35.233 : Params number: 555137
+21-07-03 17:27:35.250 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:27:35.250 : Params number: 555137
+21-07-03 17:27:35.250 : testsets\Set1
+21-07-03 17:27:39.133 : 11.png - PSNR: 30.2531 dB; SSIM: 0.7701 ; RE: 0.0973.
+21-07-03 17:27:39.134 : ------> testset_name: (Set1), alpha: (0.900), Average PSNR:(30.253)dB, Average ssim : (0.770), Average re : (0.097) )
+21-07-03 17:27:39.156 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:27:39.156 : Params number: 555137
+21-07-03 17:27:39.173 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:27:39.173 : Params number: 555137
+21-07-03 17:27:39.173 : testsets\Set1
+21-07-03 17:27:42.759 : 11.png - PSNR: 29.8766 dB; SSIM: 0.7579 ; RE: 0.1016.
+21-07-03 17:27:42.759 : ------> testset_name: (Set1), alpha: (0.900), Average PSNR:(29.877)dB, Average ssim : (0.758), Average re : (0.102) )
+21-07-03 17:27:42.792 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:27:42.792 : Params number: 555137
+21-07-03 17:27:42.810 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:27:42.811 : Params number: 555137
+21-07-03 17:27:42.811 : testsets\Set1
+21-07-03 17:27:47.948 : 11.png - PSNR: 28.9047 dB; SSIM: 0.7399 ; RE: 0.1137.
+21-07-03 17:27:47.949 : ------> testset_name: (Set1), alpha: (0.900), Average PSNR:(28.905)dB, Average ssim : (0.740), Average re : (0.114) )
+21-07-03 17:28:11.255 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:28:11.255 : Params number: 555137
+21-07-03 17:28:11.271 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:28:11.271 : Params number: 555137
+21-07-03 17:28:11.271 : testsets\Set1
+21-07-03 17:28:14.794 : 11.png - PSNR: 29.3823 dB; SSIM: 0.7703 ; RE: 0.1076.
+21-07-03 17:28:14.795 : ------> testset_name: (Set1), alpha: (0.400), Average PSNR:(29.382)dB, Average ssim : (0.770), Average re : (0.108) )
+21-07-03 17:28:14.814 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:28:14.815 : Params number: 555137
+21-07-03 17:28:14.831 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:28:14.831 : Params number: 555137
+21-07-03 17:28:14.831 : testsets\Set1
+21-07-03 17:28:17.543 : 11.png - PSNR: 29.1904 dB; SSIM: 0.7639 ; RE: 0.1100.
+21-07-03 17:28:17.543 : ------> testset_name: (Set1), alpha: (0.400), Average PSNR:(29.190)dB, Average ssim : (0.764), Average re : (0.110) )
+21-07-03 17:28:17.621 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:28:17.622 : Params number: 555137
+21-07-03 17:28:17.677 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:28:17.678 : Params number: 555137
+21-07-03 17:28:17.679 : testsets\Set1
+21-07-03 17:28:20.623 : 11.png - PSNR: 27.6200 dB; SSIM: 0.7272 ; RE: 0.1318.
+21-07-03 17:28:20.623 : ------> testset_name: (Set1), alpha: (0.400), Average PSNR:(27.620)dB, Average ssim : (0.727), Average re : (0.132) )
+21-07-03 17:28:42.718 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:28:42.718 : Params number: 555137
+21-07-03 17:28:42.729 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:28:42.729 : Params number: 555137
+21-07-03 17:28:42.729 : testsets\Set1
+21-07-03 17:28:46.217 : 11.png - PSNR: 30.6604 dB; SSIM: 0.7729 ; RE: 0.0929.
+21-07-03 17:28:46.218 : ------> testset_name: (Set1), alpha: (1.150), Average PSNR:(30.660)dB, Average ssim : (0.773), Average re : (0.093) )
+21-07-03 17:28:46.236 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:28:46.237 : Params number: 555137
+21-07-03 17:28:46.253 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:28:46.253 : Params number: 555137
+21-07-03 17:28:46.254 : testsets\Set1
+21-07-03 17:28:49.101 : 11.png - PSNR: 30.3864 dB; SSIM: 0.7616 ; RE: 0.0958.
+21-07-03 17:28:49.101 : ------> testset_name: (Set1), alpha: (1.150), Average PSNR:(30.386)dB, Average ssim : (0.762), Average re : (0.096) )
+21-07-03 17:28:49.113 : Model path 1: model_zoo\dncnn_25.pth
+21-07-03 17:28:49.113 : Params number: 555137
+21-07-03 17:28:49.123 : Model path 2: model_zoo\dncnn_15.pth
+21-07-03 17:28:49.123 : Params number: 555137
+21-07-03 17:28:49.123 : testsets\Set1
+21-07-03 17:28:51.950 : 11.png - PSNR: 29.5284 dB; SSIM: 0.7449 ; RE: 0.1058.
+21-07-03 17:28:51.950 : ------> testset_name: (Set1), alpha: (1.150), Average PSNR:(29.528)dB, Average ssim : (0.745), Average re : (0.106) )
+21-08-31 22:31:19.433 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:31:19.446 : Params number: 555137
+21-08-31 22:31:19.460 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:31:19.461 : Params number: 555137
+21-08-31 22:31:19.461 : testsets\Set1
+21-08-31 22:31:24.254 : 11.png - PSNR: 30.6604 dB; SSIM: 0.7729 ; RE: 0.0929.
+21-08-31 22:31:24.254 : ------> testset_name: (Set1), alpha: (1.150), Average PSNR:(30.660)dB, Average ssim : (0.773), Average re : (0.093) )
+21-08-31 22:31:24.269 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:31:24.270 : Params number: 555137
+21-08-31 22:31:24.284 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:31:24.284 : Params number: 555137
+21-08-31 22:31:24.284 : testsets\Set1
+21-08-31 22:31:28.272 : 11.png - PSNR: 30.3864 dB; SSIM: 0.7616 ; RE: 0.0958.
+21-08-31 22:31:28.272 : ------> testset_name: (Set1), alpha: (1.150), Average PSNR:(30.386)dB, Average ssim : (0.762), Average re : (0.096) )
+21-08-31 22:31:28.293 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:31:28.293 : Params number: 555137
+21-08-31 22:31:28.307 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:31:28.308 : Params number: 555137
+21-08-31 22:31:28.308 : testsets\Set1
+21-08-31 22:31:32.149 : 11.png - PSNR: 29.5284 dB; SSIM: 0.7449 ; RE: 0.1058.
+21-08-31 22:31:32.149 : ------> testset_name: (Set1), alpha: (1.150), Average PSNR:(29.528)dB, Average ssim : (0.745), Average re : (0.106) )
+21-08-31 22:32:03.746 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:32:03.747 : Params number: 555137
+21-08-31 22:32:03.762 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:32:03.763 : Params number: 555137
+21-08-31 22:32:03.763 : testsets\Set1
+21-08-31 22:32:08.374 : 11.png - PSNR: 30.2705 dB; SSIM: 0.7719 ; RE: 0.0971.
+21-08-31 22:32:08.374 : ------> testset_name: (Set1), alpha: (0.900), Average PSNR:(30.270)dB, Average ssim : (0.772), Average re : (0.097) )
+21-08-31 22:32:08.390 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:32:08.390 : Params number: 555137
+21-08-31 22:32:08.404 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:32:08.405 : Params number: 555137
+21-08-31 22:32:08.405 : testsets\Set1
+21-08-31 22:32:12.236 : 11.png - PSNR: 29.9707 dB; SSIM: 0.7591 ; RE: 0.1005.
+21-08-31 22:32:12.237 : ------> testset_name: (Set1), alpha: (0.900), Average PSNR:(29.971)dB, Average ssim : (0.759), Average re : (0.101) )
+21-08-31 22:32:12.253 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:32:12.253 : Params number: 555137
+21-08-31 22:32:12.266 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:32:12.267 : Params number: 555137
+21-08-31 22:32:12.267 : testsets\Set1
+21-08-31 22:32:16.180 : 11.png - PSNR: 28.8849 dB; SSIM: 0.7394 ; RE: 0.1139.
+21-08-31 22:32:16.180 : ------> testset_name: (Set1), alpha: (0.900), Average PSNR:(28.885)dB, Average ssim : (0.739), Average re : (0.114) )
+21-08-31 22:35:35.617 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:35:35.618 : Params number: 555137
+21-08-31 22:35:35.633 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:35:35.633 : Params number: 555137
+21-08-31 22:35:35.634 : testsets\Set1
+21-08-31 22:35:40.265 : 11.png - PSNR: 30.2705 dB; SSIM: 0.7719 ; RE: 0.0971.
+21-08-31 22:35:40.265 : ------> testset_name: (Set1), alpha: (0.900), Average PSNR:(30.270)dB, Average ssim : (0.772), Average re : (0.097) )
+21-08-31 22:36:36.634 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:36:36.635 : Params number: 555137
+21-08-31 22:36:36.652 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:36:36.653 : Params number: 555137
+21-08-31 22:36:36.653 : testsets\Set1
+21-08-31 22:36:41.755 : 11.png - PSNR: 30.4232 dB; SSIM: 0.7720 ; RE: 0.0954.
+21-08-31 22:36:41.755 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.423)dB, Average ssim : (0.772), Average re : (0.095) )
+21-08-31 22:37:15.402 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:37:15.403 : Params number: 555137
+21-08-31 22:37:15.417 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:37:15.417 : Params number: 555137
+21-08-31 22:37:15.417 : testsets\Set1
+21-08-31 22:37:20.058 : 11.png - PSNR: 30.3879 dB; SSIM: 0.7697 ; RE: 0.0958.
+21-08-31 22:37:20.058 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.388)dB, Average ssim : (0.770), Average re : (0.096) )
+21-08-31 22:37:42.059 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:37:42.059 : Params number: 555137
+21-08-31 22:37:42.075 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:37:42.075 : Params number: 555137
+21-08-31 22:37:42.075 : testsets\Set1
+21-08-31 22:37:46.702 : 11.png - PSNR: 30.4995 dB; SSIM: 0.7728 ; RE: 0.0946.
+21-08-31 22:37:46.702 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.499)dB, Average ssim : (0.773), Average re : (0.095) )
+21-08-31 22:38:05.194 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:38:05.194 : Params number: 555137
+21-08-31 22:38:05.210 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:38:05.210 : Params number: 555137
+21-08-31 22:38:05.210 : testsets\Set1
+21-08-31 22:38:09.988 : 11.png - PSNR: 30.5104 dB; SSIM: 0.7736 ; RE: 0.0945.
+21-08-31 22:38:09.989 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.510)dB, Average ssim : (0.774), Average re : (0.094) )
+21-08-31 22:38:26.824 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:38:26.825 : Params number: 555137
+21-08-31 22:38:26.841 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:38:26.841 : Params number: 555137
+21-08-31 22:38:26.841 : testsets\Set1
+21-08-31 22:38:31.421 : 11.png - PSNR: 30.7150 dB; SSIM: 0.7789 ; RE: 0.0923.
+21-08-31 22:38:31.421 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.715)dB, Average ssim : (0.779), Average re : (0.092) )
+21-08-31 22:38:40.963 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:38:40.963 : Params number: 555137
+21-08-31 22:38:40.978 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:38:40.979 : Params number: 555137
+21-08-31 22:38:40.979 : testsets\Set1
+21-08-31 22:38:45.623 : 11.png - PSNR: 30.8617 dB; SSIM: 0.7889 ; RE: 0.0907.
+21-08-31 22:38:45.623 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.862)dB, Average ssim : (0.789), Average re : (0.091) )
+21-08-31 22:38:55.715 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:38:55.716 : Params number: 555137
+21-08-31 22:38:55.731 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:38:55.731 : Params number: 555137
+21-08-31 22:38:55.732 : testsets\Set1
+21-08-31 22:39:00.343 : 11.png - PSNR: 30.4859 dB; SSIM: 0.7909 ; RE: 0.0948.
+21-08-31 22:39:00.344 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.486)dB, Average ssim : (0.791), Average re : (0.095) )
+21-08-31 22:39:10.144 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:39:10.144 : Params number: 555137
+21-08-31 22:39:10.159 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:39:10.160 : Params number: 555137
+21-08-31 22:39:10.160 : testsets\Set1
+21-08-31 22:39:14.774 : 11.png - PSNR: 30.8617 dB; SSIM: 0.7889 ; RE: 0.0907.
+21-08-31 22:39:14.774 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.862)dB, Average ssim : (0.789), Average re : (0.091) )
+21-08-31 22:39:32.230 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:39:32.230 : Params number: 555137
+21-08-31 22:39:32.244 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:39:32.245 : Params number: 555137
+21-08-31 22:39:32.246 : testsets\Set1
+21-08-31 22:39:36.904 : 11.png - PSNR: 30.7229 dB; SSIM: 0.7902 ; RE: 0.0922.
+21-08-31 22:39:36.904 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.723)dB, Average ssim : (0.790), Average re : (0.092) )
+21-08-31 22:39:52.821 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:39:52.822 : Params number: 555137
+21-08-31 22:39:52.837 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:39:52.838 : Params number: 555137
+21-08-31 22:39:52.838 : testsets\Set1
+21-08-31 22:39:57.459 : 11.png - PSNR: 30.8485 dB; SSIM: 0.7841 ; RE: 0.0909.
+21-08-31 22:39:57.459 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.848)dB, Average ssim : (0.784), Average re : (0.091) )
+21-08-31 22:40:24.751 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:40:24.751 : Params number: 555137
+21-08-31 22:40:24.767 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:40:24.767 : Params number: 555137
+21-08-31 22:40:24.767 : testsets\Set1
+21-08-31 22:40:29.422 : 11.png - PSNR: 30.6809 dB; SSIM: 0.7837 ; RE: 0.0927.
+21-08-31 22:40:29.422 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.681)dB, Average ssim : (0.784), Average re : (0.093) )
+21-08-31 22:41:09.364 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:41:09.365 : Params number: 555137
+21-08-31 22:41:09.378 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:41:09.378 : Params number: 555137
+21-08-31 22:41:09.378 : testsets\Set1
+21-08-31 22:41:14.012 : 11.png - PSNR: 30.8280 dB; SSIM: 0.7890 ; RE: 0.0911.
+21-08-31 22:41:14.012 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.828)dB, Average ssim : (0.789), Average re : (0.091) )
+21-08-31 22:41:38.743 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:41:38.743 : Params number: 555137
+21-08-31 22:41:38.759 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:41:38.759 : Params number: 555137
+21-08-31 22:41:38.759 : testsets\Set1
+21-08-31 22:41:43.358 : 11.png - PSNR: 30.8526 dB; SSIM: 0.7878 ; RE: 0.0908.
+21-08-31 22:41:43.358 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.853)dB, Average ssim : (0.788), Average re : (0.091) )
+21-08-31 22:42:08.242 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:42:08.243 : Params number: 555137
+21-08-31 22:42:08.264 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:42:08.265 : Params number: 555137
+21-08-31 22:42:08.265 : testsets\Set1
+21-08-31 22:42:13.057 : 11.png - PSNR: 30.7786 dB; SSIM: 0.7861 ; RE: 0.0916.
+21-08-31 22:42:13.057 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.779)dB, Average ssim : (0.786), Average re : (0.092) )
+21-08-31 22:43:02.634 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:43:02.635 : Params number: 555137
+21-08-31 22:43:02.649 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:43:02.650 : Params number: 555137
+21-08-31 22:43:02.650 : testsets\Set1
+21-08-31 22:43:07.322 : 11.png - PSNR: 28.4237 dB; SSIM: 0.7520 ; RE: 0.1201.
+21-08-31 22:43:07.323 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(28.424)dB, Average ssim : (0.752), Average re : (0.120) )
+21-08-31 22:43:29.736 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:43:29.736 : Params number: 555137
+21-08-31 22:43:29.752 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:43:29.753 : Params number: 555137
+21-08-31 22:43:29.753 : testsets\Set1
+21-08-31 22:43:34.355 : 11.png - PSNR: 30.7786 dB; SSIM: 0.7861 ; RE: 0.0916.
+21-08-31 22:43:34.355 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.779)dB, Average ssim : (0.786), Average re : (0.092) )
+21-08-31 22:45:42.357 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:45:42.358 : Params number: 555137
+21-08-31 22:45:42.373 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:45:42.373 : Params number: 555137
+21-08-31 22:45:42.374 : testsets\Set1
+21-08-31 22:45:47.010 : 11.png - PSNR: 30.8617 dB; SSIM: 0.7889 ; RE: 0.0907.
+21-08-31 22:45:47.010 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.862)dB, Average ssim : (0.789), Average re : (0.091) )
+21-08-31 22:46:58.098 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:46:58.098 : Params number: 555137
+21-08-31 22:46:58.113 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:46:58.113 : Params number: 555137
+21-08-31 22:46:58.114 : testsets\Set1
+21-08-31 22:47:02.770 : 11.png - PSNR: 30.1686 dB; SSIM: 0.7811 ; RE: 0.0983.
+21-08-31 22:47:02.770 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.169)dB, Average ssim : (0.781), Average re : (0.098) )
+21-08-31 22:47:24.275 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:47:24.276 : Params number: 555137
+21-08-31 22:47:24.291 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:47:24.291 : Params number: 555137
+21-08-31 22:47:24.291 : testsets\Set1
+21-08-31 22:47:28.948 : 11.png - PSNR: 30.8617 dB; SSIM: 0.7889 ; RE: 0.0907.
+21-08-31 22:47:28.948 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.862)dB, Average ssim : (0.789), Average re : (0.091) )
+21-08-31 22:48:02.658 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:48:02.659 : Params number: 555137
+21-08-31 22:48:02.676 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:48:02.677 : Params number: 555137
+21-08-31 22:48:02.677 : testsets\Set1
+21-08-31 22:48:07.524 : 11.png - PSNR: 30.6864 dB; SSIM: 0.7879 ; RE: 0.0926.
+21-08-31 22:48:07.524 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.686)dB, Average ssim : (0.788), Average re : (0.093) )
+21-08-31 22:48:47.252 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:48:47.253 : Params number: 555137
+21-08-31 22:48:47.267 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:48:47.268 : Params number: 555137
+21-08-31 22:48:47.268 : testsets\Set1
+21-08-31 22:48:51.927 : 11.png - PSNR: 30.7128 dB; SSIM: 0.7792 ; RE: 0.0923.
+21-08-31 22:48:51.927 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.713)dB, Average ssim : (0.779), Average re : (0.092) )
+21-08-31 22:49:15.934 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:49:15.934 : Params number: 555137
+21-08-31 22:49:15.950 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:49:15.950 : Params number: 555137
+21-08-31 22:49:15.950 : testsets\Set1
+21-08-31 22:49:20.557 : 11.png - PSNR: 30.8233 dB; SSIM: 0.7827 ; RE: 0.0911.
+21-08-31 22:49:20.557 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.823)dB, Average ssim : (0.783), Average re : (0.091) )
+21-08-31 22:49:40.876 : Model path 1: model_zoo\dncnn_25.pth
+21-08-31 22:49:40.877 : Params number: 555137
+21-08-31 22:49:40.892 : Model path 2: model_zoo\dncnn_15.pth
+21-08-31 22:49:40.893 : Params number: 555137
+21-08-31 22:49:40.893 : testsets\Set1
+21-08-31 22:49:46.175 : 11.png - PSNR: 30.8617 dB; SSIM: 0.7889 ; RE: 0.0907.
+21-08-31 22:49:46.175 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.862)dB, Average ssim : (0.789), Average re : (0.091) )
+21-09-01 15:15:03.537 : Model path 1: model_zoo\dncnn_25.pth
+21-09-01 15:15:03.554 : Params number: 555137
+21-09-01 15:15:03.772 : Model path 2: model_zoo\dncnn_15.pth
+21-09-01 15:15:03.773 : Params number: 555137
+21-09-01 15:15:03.773 : testsets\Set1
+21-09-01 15:15:17.241 : 11.png - PSNR: 30.8617 dB; SSIM: 0.7889 ; RE: 0.0907.
+21-09-01 15:15:17.241 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.862)dB, Average ssim : (0.789), Average re : (0.091) )
+21-09-01 15:15:17.486 : Model path 1: model_zoo\dncnn_25.pth
+21-09-01 15:15:17.487 : Params number: 555137
+21-09-01 15:15:17.506 : Model path 2: model_zoo\dncnn_15.pth
+21-09-01 15:15:17.506 : Params number: 555137
+21-09-01 15:15:17.507 : testsets\Set1
+21-09-01 15:15:27.003 : 11.png - PSNR: 30.1038 dB; SSIM: 0.7662 ; RE: 0.0990.
+21-09-01 15:15:27.003 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.104)dB, Average ssim : (0.766), Average re : (0.099) )
+21-09-01 15:15:27.114 : Model path 1: model_zoo\dncnn_25.pth
+21-09-01 15:15:27.114 : Params number: 555137
+21-09-01 15:15:27.340 : Model path 2: model_zoo\dncnn_15.pth
+21-09-01 15:15:27.341 : Params number: 555137
+21-09-01 15:15:27.341 : testsets\Set1
+21-09-01 15:15:37.238 : 11.png - PSNR: 29.5527 dB; SSIM: 0.7559 ; RE: 0.1055.
+21-09-01 15:15:37.239 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(29.553)dB, Average ssim : (0.756), Average re : (0.106) )
+21-09-01 15:15:37.374 : Model path 1: model_zoo\dncnn_25.pth
+21-09-01 15:15:37.375 : Params number: 555137
+21-09-01 15:15:37.625 : Model path 2: model_zoo\dncnn_15.pth
+21-09-01 15:15:37.626 : Params number: 555137
+21-09-01 15:15:37.626 : testsets\Set1
+21-09-01 15:15:47.451 : 11.png - PSNR: 30.8617 dB; SSIM: 0.7889 ; RE: 0.0907.
+21-09-01 15:15:47.451 : ------> testset_name: (Set1), alpha: (1.000), Average PSNR:(30.862)dB, Average ssim : (0.789), Average re : (0.091) )
+21-09-01 22:42:18.668 : Model path 1: model_zoo\dncnn_25.pth
+21-09-01 22:42:18.675 : Params number: 555137
+21-09-01 22:42:18.689 : Model path 2: model_zoo\dncnn_15.pth
+21-09-01 22:42:18.689 : Params number: 555137
+21-09-01 22:42:18.689 : testsets\Set1
+21-09-01 22:42:22.829 : 03.png - PSNR: 32.8219 dB; SSIM: 0.8589 ; RE: 0.1016.
+21-09-01 22:42:22.829 : ------> testset_name: (Set1), Average PSNR:(32.822)dB, Average ssim : (0.859), Average re : (0.102) )
+21-09-02 09:24:36.930 : Model path 1: model_zoo\dncnn_25.pth
+21-09-02 09:24:36.939 : Params number: 555137
+21-09-02 09:24:36.985 : Model path 2: model_zoo\dncnn_15.pth
+21-09-02 09:24:36.985 : Params number: 555137
+21-09-02 09:24:36.985 : testsets\Set1
+21-09-02 09:24:41.567 : 03.png - PSNR: 32.8219 dB; SSIM: 0.8589 ; RE: 0.1016.
+21-09-02 09:24:41.567 : ------> testset_name: (Set1), Average PSNR:(32.822)dB, Average ssim : (0.859), Average re : (0.102) )
+21-09-02 09:48:27.038 : Model path 1: model_zoo\dncnn_25.pth
+21-09-02 09:48:27.039 : Params number: 555137
+21-09-02 09:48:27.051 : Model path 2: model_zoo\dncnn_15.pth
+21-09-02 09:48:27.052 : Params number: 555137
+21-09-02 09:48:27.052 : testsets\Set1
+21-09-02 09:48:30.866 : 06.png - PSNR: 28.4763 dB; SSIM: 0.7298 ; RE: 0.0783.
+21-09-02 09:48:30.866 : ------> testset_name: (Set1), Average PSNR:(28.476)dB, Average ssim : (0.730), Average re : (0.078) )
+21-09-02 10:16:06.372 : Model path 1: model_zoo\dncnn_25.pth
+21-09-02 10:16:06.380 : Params number: 555137
+21-09-02 10:16:06.398 : Model path 2: model_zoo\dncnn_15.pth
+21-09-02 10:16:06.400 : Params number: 555137
+21-09-02 10:16:06.400 : testsets\Set1
+21-09-02 10:16:10.370 : 22.png - PSNR: 28.9504 dB; SSIM: 0.7772 ; RE: 0.1130.
+21-09-02 10:16:10.370 : ------> testset_name: (Set1), Average PSNR:(28.950)dB, Average ssim : (0.777), Average re : (0.113) )
+21-09-02 10:48:07.124 : Model path 1: model_zoo\dncnn_25.pth
+21-09-02 10:48:07.132 : Params number: 555137
+21-09-02 10:48:07.144 : Model path 2: model_zoo\dncnn_15.pth
+21-09-02 10:48:07.145 : Params number: 555137
+21-09-02 10:48:07.145 : testsets\Set1
+21-09-02 10:48:10.987 : 22.png - PSNR: 28.9504 dB; SSIM: 0.7772 ; RE: 0.1130.
+21-09-02 10:48:10.988 : ------> testset_name: (Set1), Average PSNR:(28.950)dB, Average ssim : (0.777), Average re : (0.113) )
+21-09-02 16:03:44.756 : Model path 1: model_zoo\dncnn_25.pth
+21-09-02 16:03:44.764 : Params number: 555137
+21-09-02 16:03:44.777 : Model path 2: model_zoo\dncnn_15.pth
+21-09-02 16:03:44.777 : Params number: 555137
+21-09-02 16:03:44.777 : testsets\Set1
+21-09-02 16:03:48.670 : 22.png - PSNR: 28.9504 dB; SSIM: 0.7772 ; RE: 0.1130.
+21-09-02 16:03:48.671 : ------> testset_name: (Set1), Average PSNR:(28.950)dB, Average ssim : (0.777), Average re : (0.113) )
+21-09-02 16:41:12.997 : Model path 1: model_zoo\dncnn_25.pth
+21-09-02 16:41:13.005 : Params number: 555137
+21-09-02 16:41:13.018 : Model path 2: model_zoo\dncnn_15.pth
+21-09-02 16:41:13.019 : Params number: 555137
+21-09-02 16:41:13.019 : testsets\Set1
+21-09-02 16:41:16.841 : 5.png - PSNR: 28.9504 dB; SSIM: 0.7772 ; RE: 0.1130.
+21-09-02 16:41:16.842 : ------> testset_name: (Set1), Average PSNR:(28.950)dB, Average ssim : (0.777), Average re : (0.113) )
+21-09-08 17:03:54.210 : Model path 1: model_zoo\dncnn_25.pth
+21-09-08 17:03:54.223 : Params number: 555137
+21-09-08 17:03:54.236 : Model path 2: model_zoo\dncnn_15.pth
+21-09-08 17:03:54.236 : Params number: 555137
+21-09-08 17:03:54.236 : testsets\Set1
+21-09-08 17:03:58.070 : 5.png - PSNR: 28.9504 dB; SSIM: 0.7772 ; RE: 0.1130.
+21-09-08 17:03:58.070 : ------> testset_name: (Set1), Average PSNR:(28.950)dB, Average ssim : (0.777), Average re : (0.113) )
+21-09-08 17:14:52.620 : Model path 1: model_zoo\dncnn_25.pth
+21-09-08 17:14:52.621 : Params number: 555137
+21-09-08 17:14:52.634 : Model path 2: model_zoo\dncnn_15.pth
+21-09-08 17:14:52.634 : Params number: 555137
+21-09-08 17:14:52.634 : testsets\Set1
+21-09-08 17:14:56.444 : 5.png - PSNR: 28.9504 dB; SSIM: 0.7772 ; RE: 0.1130.
+21-09-08 17:14:56.444 : ------> testset_name: (Set1), Average PSNR:(28.950)dB, Average ssim : (0.777), Average re : (0.113) )
+21-09-12 12:08:37.169 : Model path 1: model_zoo\dncnn_25.pth
+21-09-12 12:08:37.174 : Params number: 555137
+21-09-12 12:08:37.188 : Model path 2: model_zoo\dncnn_15.pth
+21-09-12 12:08:37.189 : Params number: 555137
+21-09-12 12:08:37.189 : testsets\Set1
+21-09-12 12:08:41.369 : 13.png - PSNR: 28.9249 dB; SSIM: 0.7220 ; RE: 0.0990.
+21-09-12 12:08:41.369 : ------> testset_name: (Set1), Average PSNR:(28.925)dB, Average ssim : (0.722), Average re : (0.099) )
+21-09-12 12:22:26.276 : Model path 1: model_zoo\dncnn_25.pth
+21-09-12 12:22:26.284 : Params number: 555137
+21-09-12 12:22:26.300 : Model path 2: model_zoo\dncnn_15.pth
+21-09-12 12:22:26.300 : Params number: 555137
+21-09-12 12:22:26.300 : testsets\Set1
+21-09-12 12:22:30.325 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-12 12:22:30.325 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 19:38:35.045 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 19:38:35.046 : Params number: 555137
+21-09-13 19:38:35.062 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 19:38:35.063 : Params number: 555137
+21-09-13 19:38:35.063 : testsets\Set1
+21-09-13 19:38:39.076 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 19:38:39.076 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 19:42:01.989 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 19:42:01.989 : Params number: 555137
+21-09-13 19:42:02.003 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 19:42:02.004 : Params number: 555137
+21-09-13 19:42:02.004 : testsets\Set1
+21-09-13 19:42:05.965 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 19:42:05.965 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 19:43:28.610 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 19:43:28.611 : Params number: 555137
+21-09-13 19:43:28.625 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 19:43:28.625 : Params number: 555137
+21-09-13 19:43:28.625 : testsets\Set1
+21-09-13 19:43:32.746 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 19:43:32.746 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 19:49:49.594 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 19:49:49.595 : Params number: 555137
+21-09-13 19:49:49.608 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 19:49:49.609 : Params number: 555137
+21-09-13 19:49:49.609 : testsets\Set1
+21-09-13 19:49:53.637 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 19:49:53.637 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 19:51:12.597 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 19:51:12.598 : Params number: 555137
+21-09-13 19:51:12.611 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 19:51:12.612 : Params number: 555137
+21-09-13 19:51:12.612 : testsets\Set1
+21-09-13 19:51:16.784 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 19:51:16.784 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 19:54:38.684 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 19:54:38.685 : Params number: 555137
+21-09-13 19:54:38.699 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 19:54:38.699 : Params number: 555137
+21-09-13 19:54:38.699 : testsets\Set1
+21-09-13 19:54:42.696 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 19:54:42.696 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 19:56:03.550 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 19:56:03.551 : Params number: 555137
+21-09-13 19:56:03.564 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 19:56:03.564 : Params number: 555137
+21-09-13 19:56:03.565 : testsets\Set1
+21-09-13 19:56:07.604 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 19:56:07.604 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 20:03:32.580 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 20:03:32.581 : Params number: 555137
+21-09-13 20:03:32.594 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 20:03:32.595 : Params number: 555137
+21-09-13 20:03:32.595 : testsets\Set1
+21-09-13 20:03:36.526 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 20:03:36.526 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 20:22:57.790 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 20:22:57.791 : Params number: 555137
+21-09-13 20:22:57.809 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 20:22:57.810 : Params number: 555137
+21-09-13 20:22:57.810 : testsets\Set1
+21-09-13 20:23:01.895 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 20:23:01.896 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 20:27:05.540 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 20:27:05.541 : Params number: 555137
+21-09-13 20:27:05.556 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 20:27:05.557 : Params number: 555137
+21-09-13 20:27:05.557 : testsets\Set1
+21-09-13 20:27:09.803 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 20:27:09.803 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 20:27:38.154 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 20:27:38.154 : Params number: 555137
+21-09-13 20:27:38.168 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 20:27:38.168 : Params number: 555137
+21-09-13 20:27:38.168 : testsets\Set1
+21-09-13 20:27:42.494 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 20:27:42.494 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 20:37:20.651 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 20:37:20.652 : Params number: 555137
+21-09-13 20:37:20.668 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 20:37:20.669 : Params number: 555137
+21-09-13 20:37:20.669 : testsets\Set1
+21-09-13 20:37:24.943 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 20:37:24.944 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 20:41:56.529 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 20:41:56.529 : Params number: 555137
+21-09-13 20:41:56.548 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 20:41:56.548 : Params number: 555137
+21-09-13 20:41:56.548 : testsets\Set1
+21-09-13 20:42:01.139 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 20:42:01.139 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 20:42:24.060 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 20:42:24.061 : Params number: 555137
+21-09-13 20:42:24.074 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 20:42:24.075 : Params number: 555137
+21-09-13 20:42:24.075 : testsets\Set1
+21-09-13 20:42:28.142 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 20:42:28.142 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 20:43:38.445 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 20:43:38.446 : Params number: 555137
+21-09-13 20:43:38.459 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 20:43:38.459 : Params number: 555137
+21-09-13 20:43:38.459 : testsets\Set1
+21-09-13 20:43:42.595 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 20:43:42.595 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 20:46:41.266 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 20:46:41.267 : Params number: 555137
+21-09-13 20:46:41.280 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 20:46:41.281 : Params number: 555137
+21-09-13 20:46:41.281 : testsets\Set1
+21-09-13 20:46:45.612 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 20:46:45.612 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 20:51:33.427 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 20:51:33.427 : Params number: 555137
+21-09-13 20:51:33.445 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 20:51:33.445 : Params number: 555137
+21-09-13 20:51:33.445 : testsets\Set1
+21-09-13 20:51:37.653 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 20:51:37.653 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 20:52:22.500 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 20:52:22.500 : Params number: 555137
+21-09-13 20:52:22.513 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 20:52:22.513 : Params number: 555137
+21-09-13 20:52:22.513 : testsets\Set1
+21-09-13 20:52:26.644 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 20:52:26.644 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 20:58:03.822 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 20:58:03.822 : Params number: 555137
+21-09-13 20:58:03.836 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 20:58:03.836 : Params number: 555137
+21-09-13 20:58:03.836 : testsets\Set1
+21-09-13 20:58:08.122 : 02.png - PSNR: 27.5595 dB; SSIM: 0.7631 ; RE: 0.0920.
+21-09-13 20:58:08.122 : ------> testset_name: (Set1), Average PSNR:(27.559)dB, Average ssim : (0.763), Average re : (0.092) )
+21-09-13 21:00:42.577 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 21:00:42.577 : Params number: 555137
+21-09-13 21:00:42.597 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 21:00:42.598 : Params number: 555137
+21-09-13 21:00:42.598 : testsets\Set1
+21-09-13 21:00:46.795 : 02.png - PSNR: 27.5595 dB; SSIM: 0.7631 ; RE: 0.0920.
+21-09-13 21:00:46.796 : ------> testset_name: (Set1), Average PSNR:(27.559)dB, Average ssim : (0.763), Average re : (0.092) )
+21-09-13 21:03:32.615 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 21:03:32.616 : Params number: 555137
+21-09-13 21:03:32.633 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 21:03:32.634 : Params number: 555137
+21-09-13 21:03:32.634 : testsets\Set1
+21-09-13 21:03:36.695 : 02.png - PSNR: 27.5595 dB; SSIM: 0.7631 ; RE: 0.0920.
+21-09-13 21:03:36.695 : ------> testset_name: (Set1), Average PSNR:(27.559)dB, Average ssim : (0.763), Average re : (0.092) )
+21-09-13 21:05:09.395 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 21:05:09.396 : Params number: 555137
+21-09-13 21:05:09.409 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 21:05:09.409 : Params number: 555137
+21-09-13 21:05:09.409 : testsets\Set1
+21-09-13 21:05:35.310 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 21:05:35.311 : Params number: 555137
+21-09-13 21:05:35.325 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 21:05:35.325 : Params number: 555137
+21-09-13 21:05:35.326 : testsets\Set1
+21-09-13 21:05:39.671 : 02.png - PSNR: 27.5595 dB; SSIM: 0.7631 ; RE: 0.0920.
+21-09-13 21:05:39.671 : ------> testset_name: (Set1), Average PSNR:(27.559)dB, Average ssim : (0.763), Average re : (0.092) )
+21-09-13 21:07:02.390 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 21:07:02.390 : Params number: 555137
+21-09-13 21:07:02.411 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 21:07:02.411 : Params number: 555137
+21-09-13 21:07:02.411 : testsets\Set1
+21-09-13 21:07:06.938 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 21:07:06.938 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 21:08:07.002 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 21:08:07.003 : Params number: 555137
+21-09-13 21:08:07.017 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 21:08:07.017 : Params number: 555137
+21-09-13 21:08:07.017 : testsets\Set1
+21-09-13 21:08:11.172 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-13 21:08:11.172 : ------> testset_name: (Set1), Average PSNR:(28.651)dB, Average ssim : (0.793), Average re : (0.081) )
+21-09-13 21:17:38.538 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 21:17:38.539 : Params number: 555137
+21-09-13 21:17:38.552 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 21:17:38.553 : Params number: 555137
+21-09-13 21:17:38.553 : testsets\Set1
+21-09-13 21:17:42.655 : 05.png - PSNR: 28.9504 dB; SSIM: 0.7772 ; RE: 0.1130.
+21-09-13 21:17:42.655 : ------> testset_name: (Set1), Average PSNR:(28.950)dB, Average ssim : (0.777), Average re : (0.113) )
+21-09-13 21:22:28.556 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 21:22:28.557 : Params number: 555137
+21-09-13 21:22:28.573 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 21:22:28.574 : Params number: 555137
+21-09-13 21:22:28.574 : testsets\Set1
+21-09-13 21:22:32.810 : 02.png - PSNR: 27.5595 dB; SSIM: 0.7631 ; RE: 0.0920.
+21-09-13 21:22:32.811 : ------> testset_name: (Set1), Average PSNR:(27.559)dB, Average ssim : (0.763), Average re : (0.092) )
+21-09-13 21:30:04.137 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 21:30:04.137 : Params number: 555137
+21-09-13 21:30:04.150 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 21:30:04.150 : Params number: 555137
+21-09-13 21:30:04.151 : testsets\Set1
+21-09-13 21:30:08.103 : 02.png - PSNR: 27.5595 dB; SSIM: 0.7631 ; RE: 0.0920.
+21-09-13 21:30:08.103 : ------> testset_name: (Set1), Average PSNR:(27.559)dB, Average ssim : (0.763), Average re : (0.092) )
+21-09-13 21:33:38.085 : Model path 1: model_zoo\dncnn_25.pth
+21-09-13 21:33:38.085 : Params number: 555137
+21-09-13 21:33:38.099 : Model path 2: model_zoo\dncnn_15.pth
+21-09-13 21:33:38.099 : Params number: 555137
+21-09-13 21:33:38.099 : testsets\Set1
+21-09-13 21:33:42.113 : 05.png - PSNR: 28.9504 dB; SSIM: 0.7772 ; RE: 0.1130.
+21-09-13 21:33:42.113 : ------> testset_name: (Set1), Average PSNR:(28.950)dB, Average ssim : (0.777), Average re : (0.113) )
+21-09-17 20:38:29.023 : Model path 1: model_zoo\dncnn_25.pth
+21-09-17 20:38:29.029 : Params number: 555137
+21-09-17 20:38:29.043 : Model path 2: model_zoo\dncnn_15.pth
+21-09-17 20:38:29.043 : Params number: 555137
+21-09-17 20:38:29.043 : testsets\Set1
+21-09-17 20:38:32.961 : 02.png - PSNR: 28.6508 dB; SSIM: 0.7929 ; RE: 0.0812.
+21-09-17 20:38:37.113 : 05.png - PSNR: 28.9504 dB; SSIM: 0.7772 ; RE: 0.1130.
+21-09-17 20:38:37.113 : ------> testset_name: (Set1), alpha: (1.200), Average PSNR:(28.801)dB, Average ssim : (0.785), Average re : (0.097) )
+21-09-17 20:39:51.603 : Model path 1: model_zoo\dncnn_25.pth
+21-09-17 20:39:51.603 : Params number: 555137
+21-09-17 20:39:51.617 : Model path 2: model_zoo\dncnn_15.pth
+21-09-17 20:39:51.618 : Params number: 555137
+21-09-17 20:39:51.618 : testsets\Set1
+21-09-17 20:39:55.472 : 05.png - PSNR: 28.9504 dB; SSIM: 0.7772 ; RE: 0.1130.
+21-09-17 20:39:55.472 : ------> testset_name: (Set1), alpha: (1.200), Average PSNR:(28.950)dB, Average ssim : (0.777), Average re : (0.113) )
+21-09-17 20:41:10.785 : Model path 1: model_zoo\dncnn_25.pth
+21-09-17 20:41:10.786 : Params number: 555137
+21-09-17 20:41:10.802 : Model path 2: model_zoo\dncnn_15.pth
+21-09-17 20:41:10.803 : Params number: 555137
+21-09-17 20:41:10.803 : testsets\Set1
+21-09-17 20:41:14.910 : 05.png - PSNR: 28.9504 dB; SSIM: 0.7772 ; RE: 0.1130.
+21-09-17 20:41:14.910 : ------> testset_name: (Set1), alpha: (1.200), Average PSNR:(28.950)dB, Average ssim : (0.777), Average re : (0.113) )
+21-09-17 20:44:24.604 : Model path 1: model_zoo\dncnn_25.pth
+21-09-17 20:44:24.604 : Params number: 555137
+21-09-17 20:44:24.620 : Model path 2: model_zoo\dncnn_15.pth
+21-09-17 20:44:24.620 : Params number: 555137
+21-09-17 20:44:24.621 : testsets\Set1
+21-09-17 20:44:28.759 : 05.png - PSNR: 28.9504 dB; SSIM: 0.7772 ; RE: 0.1130.
+21-09-17 20:44:28.760 : ------> testset_name: (Set1), alpha: (1.200), Average PSNR:(28.950)dB, Average ssim : (0.777), Average re : (0.113) )

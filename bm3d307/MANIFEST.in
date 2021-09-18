@@ -1,0 +1,4 @@
+include bm3d/*
+include tests/*
+include examples/*
+include LICENSE

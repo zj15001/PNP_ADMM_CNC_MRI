@@ -1,0 +1,130 @@
+21-09-01 22:32:46.482 : testsets\Set1
+21-09-01 22:35:36.496 : 03.png - PSNR: 29.7188 dB; SSIM: 0.8234 ; RE: 0.1453.
+21-09-01 22:35:36.496 : ------> testset_name: (Set1), Average PSNR:(29.719)dB, Average ssim : (0.823), Average re : (0.145) )
+21-09-02 09:15:00.905 : testsets\Set1
+21-09-02 09:17:43.588 : 03.png - PSNR: 29.7188 dB; SSIM: 0.8234 ; RE: 0.1453.
+21-09-02 09:17:43.588 : ------> testset_name: (Set1), Average PSNR:(29.719)dB, Average ssim : (0.823), Average re : (0.145) )
+21-09-02 09:40:19.817 : testsets\Set1
+21-09-02 09:43:00.464 : 06.png - PSNR: 24.1697 dB; SSIM: 0.6086 ; RE: 0.1286.
+21-09-02 09:43:00.465 : ------> testset_name: (Set1), Average PSNR:(24.170)dB, Average ssim : (0.609), Average re : (0.129) )
+21-09-02 10:07:34.266 : testsets\Set1
+21-09-02 10:10:27.170 : 22.png - PSNR: 25.1185 dB; SSIM: 0.6581 ; RE: 0.1757.
+21-09-02 10:10:27.170 : ------> testset_name: (Set1), Average PSNR:(25.118)dB, Average ssim : (0.658), Average re : (0.176) )
+21-09-02 10:40:05.863 : testsets\Set1
+21-09-02 10:42:40.859 : 22.png - PSNR: 25.1185 dB; SSIM: 0.6581 ; RE: 0.1757.
+21-09-02 10:42:40.859 : ------> testset_name: (Set1), Average PSNR:(25.118)dB, Average ssim : (0.658), Average re : (0.176) )
+21-09-02 15:55:16.084 : testsets\Set1
+21-09-02 15:57:53.798 : 22.png - PSNR: 25.1185 dB; SSIM: 0.6581 ; RE: 0.1757.
+21-09-02 15:57:53.798 : ------> testset_name: (Set1), Average PSNR:(25.118)dB, Average ssim : (0.658), Average re : (0.176) )
+21-09-02 16:32:04.328 : testsets\Set1
+21-09-02 16:35:03.897 : 5.png - PSNR: 25.1185 dB; SSIM: 0.6581 ; RE: 0.1757.
+21-09-02 16:35:03.897 : ------> testset_name: (Set1), Average PSNR:(25.118)dB, Average ssim : (0.658), Average re : (0.176) )
+21-09-08 16:41:17.080 : testsets\Set1
+21-09-08 16:43:59.648 : 5.png - PSNR: 25.1185 dB; SSIM: 0.6581 ; RE: 0.1757.
+21-09-08 16:43:59.648 : ------> testset_name: (Set1), Average PSNR:(25.118)dB, Average ssim : (0.658), Average re : (0.176) )
+21-09-08 16:48:25.807 : testsets\Set1
+21-09-08 16:51:03.520 : 5.png - PSNR: 25.1185 dB; SSIM: 0.6581 ; RE: 0.1757.
+21-09-08 16:51:03.520 : ------> testset_name: (Set1), Average PSNR:(25.118)dB, Average ssim : (0.658), Average re : (0.176) )
+21-09-08 16:54:34.779 : testsets\Set1
+21-09-08 16:54:56.759 : testsets\Set1
+21-09-08 16:56:07.425 : testsets\Set1
+21-09-08 16:58:36.216 : 5.png - PSNR: 25.1185 dB; SSIM: 0.6581 ; RE: 0.1757.
+21-09-08 16:58:36.217 : ------> testset_name: (Set1), Average PSNR:(25.118)dB, Average ssim : (0.658), Average re : (0.176) )
+21-09-08 17:07:05.778 : testsets\Set1
+21-09-08 17:09:34.761 : 5.png - PSNR: 25.1185 dB; SSIM: 0.6581 ; RE: 0.1757.
+21-09-08 17:09:34.761 : ------> testset_name: (Set1), Average PSNR:(25.118)dB, Average ssim : (0.658), Average re : (0.176) )
+21-09-12 11:59:03.865 : testsets\Set1
+21-09-12 12:02:02.898 : 13.png - PSNR: 24.5248 dB; SSIM: 0.6173 ; RE: 0.1643.
+21-09-12 12:02:02.898 : ------> testset_name: (Set1), Average PSNR:(24.525)dB, Average ssim : (0.617), Average re : (0.164) )
+21-09-12 12:13:20.601 : testsets\Set1
+21-09-12 12:16:09.762 : 02.png - PSNR: 24.3125 dB; SSIM: 0.6542 ; RE: 0.1337.
+21-09-12 12:16:09.762 : ------> testset_name: (Set1), Average PSNR:(24.313)dB, Average ssim : (0.654), Average re : (0.134) )
+21-09-13 19:38:14.597 : testsets\Set1
+21-09-13 19:38:17.893 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 19:38:17.893 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 19:41:42.843 : testsets\Set1
+21-09-13 19:41:46.081 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 19:41:46.081 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 19:43:08.472 : testsets\Set1
+21-09-13 19:43:11.673 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 19:43:11.673 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 19:49:30.090 : testsets\Set1
+21-09-13 19:49:33.326 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 19:49:33.327 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 19:50:53.806 : testsets\Set1
+21-09-13 19:50:56.844 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 19:50:56.845 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 19:54:19.992 : testsets\Set1
+21-09-13 19:54:23.052 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 19:54:23.052 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 19:55:44.986 : testsets\Set1
+21-09-13 19:55:48.025 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 19:55:48.026 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 20:03:14.141 : testsets\Set1
+21-09-13 20:03:17.212 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 20:03:17.212 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 20:22:38.850 : testsets\Set1
+21-09-13 20:22:41.910 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 20:22:41.910 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 20:26:46.212 : testsets\Set1
+21-09-13 20:26:49.253 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 20:26:49.253 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 20:27:18.660 : testsets\Set1
+21-09-13 20:27:21.720 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 20:27:21.720 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 20:37:00.397 : testsets\Set1
+21-09-13 20:37:03.609 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 20:37:03.609 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 20:41:36.311 : testsets\Set1
+21-09-13 20:41:39.614 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 20:41:39.614 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 20:42:05.393 : testsets\Set1
+21-09-13 20:42:08.451 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 20:42:08.452 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 20:43:19.650 : testsets\Set1
+21-09-13 20:43:22.684 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 20:43:22.684 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 20:46:21.511 : testsets\Set1
+21-09-13 20:46:24.746 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 20:46:24.746 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 20:51:13.621 : testsets\Set1
+21-09-13 20:51:16.659 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 20:51:16.660 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 20:52:03.008 : testsets\Set1
+21-09-13 20:52:06.278 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 20:52:06.279 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 20:57:44.994 : testsets\Set1
+21-09-13 20:57:48.155 : 02.png - PSNR: 23.8644 dB; SSIM: 0.6514 ; RE: 0.1408.
+21-09-13 20:57:48.156 : ------> testset_name: (Set1), Average PSNR:(23.864)dB, Average ssim : (0.651), Average re : (0.141) )
+21-09-13 21:00:22.560 : testsets\Set1
+21-09-13 21:00:25.800 : 02.png - PSNR: 23.8644 dB; SSIM: 0.6514 ; RE: 0.1408.
+21-09-13 21:00:25.800 : ------> testset_name: (Set1), Average PSNR:(23.864)dB, Average ssim : (0.651), Average re : (0.141) )
+21-09-13 21:03:13.838 : testsets\Set1
+21-09-13 21:03:16.886 : 02.png - PSNR: 23.8644 dB; SSIM: 0.6514 ; RE: 0.1408.
+21-09-13 21:03:16.886 : ------> testset_name: (Set1), Average PSNR:(23.864)dB, Average ssim : (0.651), Average re : (0.141) )
+21-09-13 21:04:49.683 : testsets\Set1
+21-09-13 21:04:52.935 : 02.png - PSNR: 23.8644 dB; SSIM: 0.6514 ; RE: 0.1408.
+21-09-13 21:04:52.936 : ------> testset_name: (Set1), Average PSNR:(23.864)dB, Average ssim : (0.651), Average re : (0.141) )
+21-09-13 21:05:14.439 : testsets\Set1
+21-09-13 21:05:17.945 : 02.png - PSNR: 23.8644 dB; SSIM: 0.6514 ; RE: 0.1408.
+21-09-13 21:05:17.945 : ------> testset_name: (Set1), Average PSNR:(23.864)dB, Average ssim : (0.651), Average re : (0.141) )
+21-09-13 21:06:42.817 : testsets\Set1
+21-09-13 21:06:46.104 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 21:06:46.104 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 21:07:48.123 : testsets\Set1
+21-09-13 21:07:51.196 : 02.png - PSNR: 23.6650 dB; SSIM: 0.6504 ; RE: 0.1441.
+21-09-13 21:07:51.196 : ------> testset_name: (Set1), Average PSNR:(23.665)dB, Average ssim : (0.650), Average re : (0.144) )
+21-09-13 21:17:18.128 : testsets\Set1
+21-09-13 21:17:21.196 : 05.png - PSNR: 24.8517 dB; SSIM: 0.6549 ; RE: 0.1811.
+21-09-13 21:17:21.197 : ------> testset_name: (Set1), Average PSNR:(24.852)dB, Average ssim : (0.655), Average re : (0.181) )
+21-09-13 21:22:07.058 : testsets\Set1
+21-09-13 21:22:10.626 : 02.png - PSNR: 23.8644 dB; SSIM: 0.6514 ; RE: 0.1408.
+21-09-13 21:22:10.627 : ------> testset_name: (Set1), Average PSNR:(23.864)dB, Average ssim : (0.651), Average re : (0.141) )
+21-09-13 21:29:43.754 : testsets\Set1
+21-09-13 21:29:47.103 : 02.png - PSNR: 23.8644 dB; SSIM: 0.6514 ; RE: 0.1408.
+21-09-13 21:29:47.103 : ------> testset_name: (Set1), Average PSNR:(23.864)dB, Average ssim : (0.651), Average re : (0.141) )
+21-09-13 21:33:17.979 : testsets\Set1
+21-09-13 21:33:21.314 : 05.png - PSNR: 24.8517 dB; SSIM: 0.6549 ; RE: 0.1811.
+21-09-13 21:33:21.315 : ------> testset_name: (Set1), Average PSNR:(24.852)dB, Average ssim : (0.655), Average re : (0.181) )
+21-09-17 20:46:37.747 : testsets\Set1
+21-09-17 20:51:36.510 : testsets\Set1
